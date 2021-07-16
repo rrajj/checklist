@@ -1,8 +1,8 @@
 # Example Checklist NFR
 
-- [ ] Security: check secrets/connection strings.
-- [ ] Check dependencies (security or private repository).
-- [ ] Files hierarchy and IDE support:
+- [x] Security: check secrets/connection strings.
+- [x] Check dependencies (security or private repository).
+- [x] Files hierarchy and IDE support:
   - [ ] Create solution file in the project root.
   - [ ] Move project to src/ folder.
   - [ ] Update .gitignore if needed.
