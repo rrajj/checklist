@@ -2,16 +2,16 @@
 - [x] Week01
     - [x] 01.md
 
-- [ ] Week02
-    - [ ] 02-3.md
-    - [ ] 02.md
+- [x] Week02
+    - [x] 02-3.md
+    - [x] 02.md
     
 - [ ] Week03
     - [ ] 03-3.md
     - [ ] 03.md
     
-- [ ] Week04
-    - [ ] 04.md
+- [x] Week04
+    - [x] 04.md
     
 - [ ] Week05
     - [ ] 05.md
