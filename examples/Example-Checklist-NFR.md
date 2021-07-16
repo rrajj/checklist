@@ -27,8 +27,8 @@
   - [ ] SemVer and proper versioning and tagging.
 - [ ] CI/CD:
   - [x] Possibly we could keep GitLab, but we need to think about CI for forks.
-  - [ ] Security check for CI/CD workflows.
-  - [ ] Branch rules (protect master branch).
+  - [x] Security check for CI/CD workflows.
+  - [x] Branch rules (protect master branch).
 - [ ] Package distribution
   - [ ] Prepare project for publish to NuGet.
   - [ ] Create project on public NuGet as DodoPizza organization.
