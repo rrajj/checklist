@@ -2,8 +2,8 @@ name: NFR documents changed
 on:
   workflow_dispatch:
   push:
-    # paths:
-    #   - "examples/*.md"
+     paths:
+       - "g*.md"
 jobs:
   push:
     name: NFR documents changed
@@ -14,7 +14,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Update NFR badges
-        uses: ./.
+        uses: dodopizza/gha-checklist-badges@main
         with:
           readme-fname: README.md
           nfr-fnames: examples/Example-Checklist-NFR.md examples/Example-TODO.md examples/en.md
